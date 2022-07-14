@@ -24,6 +24,7 @@ git clone https://github.com/upALX/Pyguessing.git
 
 **If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/Pyguessing/issues), [pull request](https://github.com/upALX/Pyguessing/pulls) or find me on [Linkedin](https://www.linkedin.com/in/upalx/) :D**
 
+
 ### License :unlock:
 This project is under the [MIT license](https://github.com/upALX/Pyguessing/blob/main/LICENSE).
 
